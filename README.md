@@ -34,9 +34,9 @@ chmod +x sinhala-font-setup.sh
 ./sinhala-font-setup.sh
 ```
 
----
+## <!--
 
-<!-- ## 📸 Screenshot
+## 📸 Screenshot
 
 > _(Optional)_ You can add a terminal screenshot showing script steps here. -->
 
