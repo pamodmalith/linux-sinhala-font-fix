@@ -54,7 +54,7 @@ chmod +x uninstall-sinhala-font-config.sh
 > This will remove the Sinhala font override config from your system or user directory.
 
 ---
-
+<!--
 ## 📦 What Fonts Are Used?
 
 - [`fonts-noto-sinhala`](https://packages.debian.org/sid/fonts-noto-sinhala)
@@ -65,7 +65,7 @@ chmod +x uninstall-sinhala-font-config.sh
 
 - Linux Mint 21/22 (Cinnamon)
 - Ubuntu 22.04+
-
+-->
 ## 🧠 Why Use This?
 
 - Fixes issues like:
